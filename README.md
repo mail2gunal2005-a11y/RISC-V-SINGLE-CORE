@@ -1,2 +1,2 @@
 # RISC-V-SINGLE-CORE
- RISC V Singe Core RTL Design using Verilog 
+32 bit RISC V Singe Core RTL Design using Verilog 
